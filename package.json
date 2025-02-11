@@ -1,7 +1,6 @@
 {
   "homepage": "https://kniru19.github.io/deploy-react-project/",
-  "name": "week4-deploy",
-  
+  "name": "week4-deploy",  
   "private": true,
   "version": "0.0.0",
   "type": "module",
