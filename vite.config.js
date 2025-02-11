@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/deploy-react-project/', // 👈 Add this line
+  base: '/react-pro/', // 👈 Add this line
 });
